@@ -3,5 +3,5 @@ pandas
 opencv-python-headless
 numpy
 pillow
-openai
+openai==0.28
 datetime
