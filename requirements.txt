@@ -2,6 +2,6 @@ streamlit
 pandas
 opencv-python
 numpy
-PIL
+pillow
 openai
 datetime
