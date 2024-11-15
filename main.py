@@ -8,7 +8,8 @@ from datetime import datetime
 from config import API_KEY 
 
 # Set your OpenAI API key
-openai.api_key = API_KEY
+openai.api_key = st.secrets["OPENAI_API_KEY"]
+
 
 # Load the wait time dataset
 file_path = '/Users/jaishmoney/dinetimeapp/popular_fast_food_wait_times.csv'
