@@ -1,0 +1,1001 @@
+Restaurant Name,Location,Time of Day,Day of the Week,Line Length (People),Estimated Wait Time (Minutes)
+Wendy's,Downtown,Afternoon,Tuesday,3,7
+Taco Bell,Downtown,Evening,Wednesday,1,0
+Burger King,Highway Rest Stop,Late Night,Wednesday,19,27
+Domino's Pizza,Mall,Evening,Wednesday,18,25
+Wendy's,Suburb,Morning,Friday,17,20
+Burger King,Mall,Afternoon,Friday,13,18
+Starbucks,Highway Rest Stop,Evening,Saturday,3,6
+Domino's Pizza,Mall,Evening,Friday,1,4
+In-N-Out Burger,Highway Rest Stop,Afternoon,Sunday,4,5
+Chick-fil-A,Highway Rest Stop,Afternoon,Sunday,13,24
+McDonald's,Suburb,Late Night,Monday,17,21
+KFC,Downtown,Evening,Saturday,11,23
+Wendy's,Highway Rest Stop,Evening,Tuesday,2,3
+McDonald's,Highway Rest Stop,Morning,Thursday,16,18
+Taco Bell,Suburb,Late Night,Monday,2,3
+Burger King,Highway Rest Stop,Morning,Tuesday,19,33
+Burger King,Downtown,Evening,Tuesday,19,32
+Wendy's,Suburb,Morning,Saturday,16,34
+Subway,Downtown,Evening,Wednesday,19,31
+Subway,Downtown,Evening,Wednesday,9,19
+In-N-Out Burger,Suburb,Morning,Monday,1,2
+Chick-fil-A,Highway Rest Stop,Morning,Wednesday,10,19
+Domino's Pizza,Downtown,Afternoon,Tuesday,19,27
+Taco Bell,Downtown,Afternoon,Wednesday,1,1
+McDonald's,Downtown,Afternoon,Friday,2,4
+Subway,Downtown,Evening,Wednesday,16,19
+In-N-Out Burger,Suburb,Morning,Tuesday,12,24
+In-N-Out Burger,Suburb,Late Night,Saturday,8,12
+Wendy's,Mall,Evening,Monday,18,25
+Taco Bell,Mall,Late Night,Thursday,2,7
+Starbucks,Downtown,Morning,Wednesday,13,21
+Domino's Pizza,Highway Rest Stop,Evening,Sunday,6,8
+Chick-fil-A,Downtown,Late Night,Sunday,6,11
+KFC,Highway Rest Stop,Late Night,Tuesday,9,14
+Wendy's,Downtown,Afternoon,Thursday,16,33
+Domino's Pizza,Mall,Afternoon,Thursday,11,18
+KFC,Mall,Afternoon,Friday,7,15
+KFC,Highway Rest Stop,Evening,Thursday,10,6
+Taco Bell,Downtown,Morning,Sunday,10,15
+Taco Bell,Highway Rest Stop,Morning,Saturday,18,33
+McDonald's,Mall,Afternoon,Tuesday,9,16
+In-N-Out Burger,Downtown,Afternoon,Tuesday,15,20
+Domino's Pizza,Downtown,Afternoon,Wednesday,4,5
+Wendy's,Highway Rest Stop,Late Night,Wednesday,8,13
+Burger King,Suburb,Afternoon,Wednesday,9,9
+Wendy's,Highway Rest Stop,Late Night,Sunday,13,20
+McDonald's,Mall,Morning,Sunday,9,14
+Chick-fil-A,Mall,Evening,Sunday,4,7
+In-N-Out Burger,Mall,Evening,Sunday,17,30
+Burger King,Mall,Evening,Sunday,16,19
+Subway,Mall,Evening,Sunday,15,18
+Chick-fil-A,Suburb,Late Night,Saturday,3,1
+Taco Bell,Downtown,Late Night,Sunday,5,7
+KFC,Highway Rest Stop,Afternoon,Thursday,5,8
+Subway,Highway Rest Stop,Late Night,Thursday,15,21
+Wendy's,Mall,Afternoon,Friday,18,35
+Wendy's,Highway Rest Stop,Afternoon,Saturday,15,21
+Taco Bell,Mall,Evening,Wednesday,2,2
+McDonald's,Suburb,Late Night,Monday,13,14
+Domino's Pizza,Suburb,Late Night,Sunday,4,5
+Subway,Downtown,Afternoon,Friday,10,15
+Subway,Suburb,Afternoon,Monday,13,16
+Starbucks,Suburb,Morning,Thursday,10,15
+Chick-fil-A,Downtown,Morning,Friday,9,18
+In-N-Out Burger,Highway Rest Stop,Afternoon,Friday,8,14
+Chick-fil-A,Mall,Morning,Tuesday,3,9
+Domino's Pizza,Mall,Morning,Thursday,16,29
+Wendy's,Highway Rest Stop,Afternoon,Thursday,14,23
+Wendy's,Downtown,Afternoon,Saturday,9,13
+Wendy's,Highway Rest Stop,Late Night,Friday,11,8
+Starbucks,Suburb,Afternoon,Sunday,3,6
+Wendy's,Downtown,Afternoon,Thursday,5,5
+Domino's Pizza,Downtown,Evening,Friday,10,12
+Taco Bell,Downtown,Late Night,Saturday,13,20
+In-N-Out Burger,Mall,Late Night,Sunday,4,9
+Domino's Pizza,Highway Rest Stop,Late Night,Saturday,13,28
+In-N-Out Burger,Downtown,Evening,Tuesday,12,19
+Domino's Pizza,Downtown,Afternoon,Sunday,5,3
+Wendy's,Downtown,Late Night,Friday,10,16
+Taco Bell,Highway Rest Stop,Late Night,Thursday,9,15
+Subway,Mall,Morning,Thursday,7,5
+Chick-fil-A,Suburb,Late Night,Friday,2,1
+KFC,Mall,Afternoon,Friday,7,12
+Taco Bell,Downtown,Afternoon,Friday,8,14
+Subway,Mall,Morning,Wednesday,7,16
+McDonald's,Mall,Late Night,Sunday,14,17
+Domino's Pizza,Suburb,Late Night,Thursday,19,30
+McDonald's,Highway Rest Stop,Late Night,Sunday,5,6
+Subway,Highway Rest Stop,Evening,Saturday,18,27
+Taco Bell,Mall,Late Night,Thursday,12,19
+Domino's Pizza,Mall,Afternoon,Wednesday,17,27
+KFC,Highway Rest Stop,Afternoon,Friday,13,22
+Wendy's,Highway Rest Stop,Evening,Tuesday,2,1
+Domino's Pizza,Suburb,Evening,Friday,13,26
+Domino's Pizza,Downtown,Late Night,Friday,7,9
+Taco Bell,Mall,Morning,Wednesday,10,14
+Taco Bell,Highway Rest Stop,Evening,Sunday,6,13
+Subway,Mall,Evening,Thursday,3,3
+Burger King,Mall,Late Night,Friday,3,11
+Domino's Pizza,Highway Rest Stop,Late Night,Thursday,18,36
+Chick-fil-A,Suburb,Evening,Monday,11,18
+Domino's Pizza,Mall,Morning,Saturday,5,11
+Subway,Suburb,Evening,Sunday,19,32
+In-N-Out Burger,Highway Rest Stop,Late Night,Thursday,19,34
+McDonald's,Downtown,Late Night,Tuesday,15,24
+Wendy's,Downtown,Evening,Saturday,16,26
+Burger King,Mall,Morning,Tuesday,9,10
+KFC,Highway Rest Stop,Evening,Friday,4,0
+KFC,Suburb,Evening,Saturday,15,26
+KFC,Mall,Late Night,Thursday,12,9
+Taco Bell,Highway Rest Stop,Morning,Saturday,3,4
+KFC,Highway Rest Stop,Afternoon,Friday,14,19
+Wendy's,Suburb,Morning,Wednesday,17,22
+McDonald's,Mall,Evening,Sunday,19,32
+KFC,Highway Rest Stop,Evening,Tuesday,6,8
+Domino's Pizza,Highway Rest Stop,Evening,Friday,4,9
+Domino's Pizza,Highway Rest Stop,Morning,Wednesday,7,6
+Taco Bell,Suburb,Late Night,Saturday,19,19
+Wendy's,Mall,Evening,Saturday,17,31
+McDonald's,Mall,Evening,Friday,16,27
+Burger King,Mall,Morning,Thursday,15,19
+Subway,Mall,Afternoon,Saturday,8,11
+McDonald's,Downtown,Afternoon,Thursday,19,35
+Subway,Downtown,Late Night,Thursday,8,17
+In-N-Out Burger,Mall,Late Night,Sunday,18,34
+Subway,Suburb,Evening,Thursday,16,29
+Chick-fil-A,Downtown,Morning,Monday,19,25
+Domino's Pizza,Highway Rest Stop,Evening,Sunday,10,7
+Wendy's,Downtown,Late Night,Wednesday,17,25
+Starbucks,Highway Rest Stop,Morning,Wednesday,13,17
+Taco Bell,Mall,Morning,Saturday,13,24
+Chick-fil-A,Downtown,Late Night,Saturday,7,12
+Subway,Suburb,Afternoon,Thursday,10,16
+KFC,Downtown,Afternoon,Sunday,2,-1
+Wendy's,Downtown,Morning,Sunday,4,7
+Chick-fil-A,Downtown,Evening,Monday,6,12
+Taco Bell,Mall,Afternoon,Thursday,18,30
+Domino's Pizza,Suburb,Evening,Monday,6,10
+Wendy's,Downtown,Afternoon,Thursday,17,24
+Taco Bell,Suburb,Afternoon,Tuesday,14,23
+In-N-Out Burger,Mall,Evening,Tuesday,11,22
+In-N-Out Burger,Highway Rest Stop,Late Night,Friday,19,32
+Taco Bell,Downtown,Afternoon,Thursday,2,1
+Chick-fil-A,Suburb,Afternoon,Sunday,3,2
+Wendy's,Suburb,Evening,Saturday,11,14
+Chick-fil-A,Mall,Late Night,Wednesday,6,13
+Burger King,Downtown,Afternoon,Friday,14,17
+Subway,Highway Rest Stop,Afternoon,Saturday,19,30
+Burger King,Suburb,Late Night,Tuesday,16,19
+In-N-Out Burger,Downtown,Afternoon,Thursday,7,14
+Domino's Pizza,Highway Rest Stop,Late Night,Friday,8,13
+McDonald's,Suburb,Late Night,Thursday,19,26
+Subway,Suburb,Evening,Tuesday,16,25
+In-N-Out Burger,Highway Rest Stop,Morning,Friday,7,9
+Chick-fil-A,Highway Rest Stop,Late Night,Tuesday,9,7
+Chick-fil-A,Mall,Evening,Monday,13,24
+Chick-fil-A,Downtown,Morning,Tuesday,1,2
+Domino's Pizza,Downtown,Afternoon,Sunday,8,15
+Burger King,Mall,Morning,Sunday,4,9
+McDonald's,Suburb,Late Night,Thursday,3,8
+Chick-fil-A,Highway Rest Stop,Late Night,Wednesday,3,6
+Starbucks,Highway Rest Stop,Late Night,Tuesday,13,18
+Subway,Highway Rest Stop,Late Night,Saturday,8,12
+Wendy's,Suburb,Late Night,Sunday,7,13
+Starbucks,Highway Rest Stop,Evening,Wednesday,1,-3
+McDonald's,Highway Rest Stop,Late Night,Monday,16,21
+Domino's Pizza,Mall,Evening,Friday,6,12
+McDonald's,Suburb,Afternoon,Friday,7,3
+Wendy's,Downtown,Late Night,Sunday,12,23
+Subway,Mall,Late Night,Wednesday,9,17
+Wendy's,Mall,Morning,Sunday,11,11
+Taco Bell,Downtown,Afternoon,Friday,10,19
+Subway,Mall,Late Night,Tuesday,1,-1
+McDonald's,Suburb,Late Night,Wednesday,18,37
+Chick-fil-A,Highway Rest Stop,Afternoon,Thursday,4,5
+McDonald's,Suburb,Evening,Tuesday,5,6
+McDonald's,Downtown,Late Night,Tuesday,9,11
+Subway,Downtown,Morning,Tuesday,17,30
+Taco Bell,Mall,Late Night,Thursday,3,5
+McDonald's,Suburb,Morning,Monday,16,32
+Starbucks,Suburb,Morning,Saturday,5,3
+In-N-Out Burger,Downtown,Late Night,Sunday,16,30
+KFC,Suburb,Late Night,Friday,3,5
+KFC,Downtown,Morning,Sunday,15,19
+McDonald's,Suburb,Afternoon,Wednesday,3,7
+Starbucks,Suburb,Afternoon,Monday,14,23
+Chick-fil-A,Suburb,Late Night,Wednesday,16,29
+Domino's Pizza,Downtown,Evening,Sunday,17,28
+Domino's Pizza,Mall,Afternoon,Friday,18,16
+Subway,Suburb,Late Night,Thursday,18,28
+KFC,Downtown,Afternoon,Sunday,14,30
+McDonald's,Downtown,Evening,Tuesday,18,20
+Domino's Pizza,Suburb,Late Night,Sunday,15,19
+McDonald's,Suburb,Evening,Tuesday,15,25
+Subway,Mall,Late Night,Thursday,6,8
+KFC,Downtown,Evening,Sunday,15,22
+Wendy's,Downtown,Afternoon,Monday,18,31
+In-N-Out Burger,Highway Rest Stop,Afternoon,Monday,4,11
+In-N-Out Burger,Downtown,Evening,Wednesday,8,8
+Domino's Pizza,Mall,Evening,Thursday,15,27
+In-N-Out Burger,Highway Rest Stop,Evening,Monday,3,4
+Wendy's,Highway Rest Stop,Late Night,Sunday,15,23
+McDonald's,Highway Rest Stop,Afternoon,Thursday,13,26
+Subway,Suburb,Late Night,Friday,9,10
+Wendy's,Suburb,Afternoon,Tuesday,2,-4
+Subway,Downtown,Morning,Sunday,8,19
+Subway,Highway Rest Stop,Late Night,Tuesday,17,36
+KFC,Mall,Afternoon,Tuesday,13,14
+McDonald's,Suburb,Afternoon,Thursday,1,1
+Starbucks,Mall,Late Night,Thursday,2,3
+In-N-Out Burger,Mall,Late Night,Wednesday,15,20
+Starbucks,Suburb,Afternoon,Tuesday,12,15
+KFC,Suburb,Late Night,Wednesday,14,18
+Subway,Suburb,Evening,Tuesday,2,9
+Domino's Pizza,Suburb,Late Night,Wednesday,18,37
+In-N-Out Burger,Highway Rest Stop,Late Night,Wednesday,7,16
+In-N-Out Burger,Highway Rest Stop,Late Night,Friday,6,5
+McDonald's,Highway Rest Stop,Afternoon,Wednesday,14,18
+Taco Bell,Highway Rest Stop,Evening,Thursday,8,15
+Burger King,Downtown,Morning,Wednesday,2,-2
+Burger King,Highway Rest Stop,Morning,Tuesday,17,31
+Burger King,Suburb,Evening,Wednesday,5,8
+Taco Bell,Mall,Evening,Monday,14,16
+McDonald's,Highway Rest Stop,Evening,Saturday,3,3
+Taco Bell,Downtown,Afternoon,Tuesday,5,12
+Burger King,Suburb,Morning,Monday,16,27
+KFC,Mall,Evening,Tuesday,18,37
+Wendy's,Mall,Afternoon,Thursday,17,25
+Subway,Highway Rest Stop,Morning,Saturday,11,22
+Taco Bell,Mall,Late Night,Saturday,17,33
+McDonald's,Highway Rest Stop,Afternoon,Thursday,16,29
+McDonald's,Highway Rest Stop,Morning,Saturday,2,0
+Starbucks,Suburb,Afternoon,Thursday,4,6
+Wendy's,Suburb,Morning,Monday,7,5
+Domino's Pizza,Downtown,Morning,Friday,2,0
+In-N-Out Burger,Suburb,Late Night,Tuesday,6,14
+Burger King,Suburb,Afternoon,Thursday,17,34
+Domino's Pizza,Highway Rest Stop,Evening,Tuesday,7,15
+Starbucks,Suburb,Late Night,Monday,5,8
+Burger King,Highway Rest Stop,Late Night,Friday,5,6
+Wendy's,Highway Rest Stop,Morning,Monday,16,25
+Starbucks,Suburb,Evening,Saturday,19,20
+Burger King,Downtown,Afternoon,Tuesday,9,9
+Wendy's,Downtown,Evening,Sunday,5,7
+Chick-fil-A,Mall,Evening,Friday,8,4
+Domino's Pizza,Mall,Evening,Saturday,9,6
+Domino's Pizza,Suburb,Evening,Friday,5,12
+In-N-Out Burger,Downtown,Evening,Saturday,10,13
+Wendy's,Highway Rest Stop,Morning,Monday,2,0
+Taco Bell,Mall,Morning,Thursday,9,18
+Chick-fil-A,Highway Rest Stop,Late Night,Tuesday,11,17
+KFC,Mall,Morning,Wednesday,4,6
+Burger King,Suburb,Late Night,Wednesday,2,-2
+Chick-fil-A,Downtown,Late Night,Monday,6,12
+Wendy's,Mall,Afternoon,Tuesday,14,21
+Subway,Downtown,Evening,Tuesday,1,4
+Burger King,Highway Rest Stop,Morning,Monday,18,33
+McDonald's,Suburb,Afternoon,Tuesday,7,13
+Domino's Pizza,Downtown,Morning,Thursday,1,5
+Wendy's,Suburb,Late Night,Monday,1,0
+McDonald's,Downtown,Morning,Thursday,1,4
+In-N-Out Burger,Highway Rest Stop,Evening,Tuesday,4,1
+Starbucks,Highway Rest Stop,Late Night,Monday,4,7
+KFC,Suburb,Late Night,Tuesday,18,25
+KFC,Highway Rest Stop,Afternoon,Monday,11,21
+McDonald's,Mall,Evening,Tuesday,1,8
+Domino's Pizza,Downtown,Late Night,Thursday,10,18
+In-N-Out Burger,Highway Rest Stop,Evening,Sunday,9,14
+Subway,Mall,Morning,Thursday,4,15
+Domino's Pizza,Suburb,Evening,Tuesday,6,14
+Chick-fil-A,Mall,Late Night,Monday,16,23
+KFC,Suburb,Afternoon,Wednesday,2,1
+Chick-fil-A,Suburb,Late Night,Thursday,18,28
+Burger King,Downtown,Evening,Thursday,10,20
+Taco Bell,Downtown,Evening,Saturday,17,24
+Wendy's,Mall,Late Night,Wednesday,13,21
+In-N-Out Burger,Downtown,Evening,Tuesday,18,30
+Domino's Pizza,Downtown,Morning,Sunday,13,17
+KFC,Downtown,Late Night,Monday,17,21
+Chick-fil-A,Mall,Afternoon,Saturday,5,2
+Starbucks,Highway Rest Stop,Late Night,Tuesday,11,11
+Burger King,Downtown,Morning,Friday,7,13
+Wendy's,Downtown,Morning,Sunday,10,15
+Wendy's,Mall,Morning,Thursday,17,32
+Domino's Pizza,Highway Rest Stop,Morning,Friday,15,24
+In-N-Out Burger,Downtown,Morning,Thursday,18,35
+Subway,Suburb,Afternoon,Thursday,19,35
+Starbucks,Mall,Evening,Friday,2,5
+Domino's Pizza,Downtown,Morning,Sunday,4,3
+Chick-fil-A,Downtown,Morning,Friday,3,3
+Taco Bell,Suburb,Late Night,Tuesday,7,12
+McDonald's,Suburb,Afternoon,Saturday,18,25
+Subway,Mall,Afternoon,Saturday,10,14
+In-N-Out Burger,Mall,Evening,Friday,7,11
+Burger King,Suburb,Afternoon,Tuesday,8,12
+Subway,Mall,Late Night,Saturday,6,8
+KFC,Suburb,Late Night,Tuesday,1,0
+In-N-Out Burger,Downtown,Evening,Tuesday,4,2
+Taco Bell,Suburb,Late Night,Thursday,14,26
+KFC,Suburb,Morning,Saturday,17,22
+Subway,Highway Rest Stop,Morning,Saturday,18,29
+McDonald's,Suburb,Late Night,Thursday,11,17
+McDonald's,Suburb,Evening,Friday,14,20
+Taco Bell,Highway Rest Stop,Afternoon,Thursday,9,13
+Wendy's,Mall,Evening,Saturday,15,25
+Starbucks,Highway Rest Stop,Afternoon,Saturday,12,22
+Burger King,Downtown,Late Night,Sunday,10,12
+Wendy's,Highway Rest Stop,Late Night,Friday,19,32
+McDonald's,Downtown,Morning,Thursday,19,35
+McDonald's,Mall,Afternoon,Monday,6,9
+Chick-fil-A,Highway Rest Stop,Evening,Monday,6,10
+KFC,Highway Rest Stop,Late Night,Friday,8,12
+Subway,Mall,Evening,Thursday,1,-1
+Burger King,Downtown,Morning,Thursday,17,22
+Taco Bell,Highway Rest Stop,Afternoon,Tuesday,17,25
+Subway,Downtown,Afternoon,Saturday,15,21
+Chick-fil-A,Highway Rest Stop,Late Night,Wednesday,7,14
+McDonald's,Suburb,Afternoon,Sunday,19,24
+Taco Bell,Highway Rest Stop,Late Night,Friday,3,7
+McDonald's,Mall,Morning,Wednesday,11,23
+Burger King,Mall,Afternoon,Wednesday,19,27
+KFC,Downtown,Late Night,Friday,9,17
+Subway,Highway Rest Stop,Evening,Thursday,10,11
+Subway,Downtown,Late Night,Friday,2,6
+Wendy's,Downtown,Afternoon,Wednesday,1,0
+Taco Bell,Suburb,Morning,Saturday,16,32
+Starbucks,Suburb,Afternoon,Sunday,18,43
+Chick-fil-A,Mall,Afternoon,Sunday,17,25
+Starbucks,Downtown,Late Night,Saturday,6,6
+Wendy's,Mall,Evening,Saturday,14,23
+Burger King,Highway Rest Stop,Afternoon,Thursday,15,20
+Chick-fil-A,Downtown,Evening,Monday,14,29
+KFC,Downtown,Late Night,Friday,3,5
+Starbucks,Highway Rest Stop,Evening,Sunday,19,26
+KFC,Highway Rest Stop,Late Night,Saturday,12,20
+Starbucks,Mall,Morning,Friday,2,3
+KFC,Mall,Evening,Sunday,3,5
+Starbucks,Highway Rest Stop,Evening,Saturday,18,36
+KFC,Mall,Morning,Sunday,1,4
+Wendy's,Highway Rest Stop,Evening,Thursday,6,15
+In-N-Out Burger,Downtown,Morning,Monday,5,5
+Chick-fil-A,Downtown,Afternoon,Monday,1,3
+Taco Bell,Suburb,Late Night,Saturday,19,23
+Burger King,Downtown,Morning,Sunday,1,-3
+Domino's Pizza,Highway Rest Stop,Evening,Thursday,16,28
+McDonald's,Mall,Morning,Tuesday,12,18
+Taco Bell,Suburb,Evening,Friday,8,17
+McDonald's,Mall,Afternoon,Friday,16,16
+Chick-fil-A,Highway Rest Stop,Morning,Wednesday,1,1
+Taco Bell,Downtown,Afternoon,Thursday,4,2
+KFC,Suburb,Late Night,Sunday,10,23
+KFC,Highway Rest Stop,Evening,Wednesday,11,18
+Domino's Pizza,Suburb,Evening,Saturday,17,25
+McDonald's,Suburb,Afternoon,Sunday,7,7
+Burger King,Downtown,Late Night,Wednesday,12,16
+Chick-fil-A,Highway Rest Stop,Morning,Monday,7,14
+KFC,Mall,Morning,Friday,12,13
+In-N-Out Burger,Suburb,Evening,Sunday,15,16
+Wendy's,Suburb,Afternoon,Wednesday,2,0
+Wendy's,Mall,Afternoon,Monday,14,23
+Starbucks,Highway Rest Stop,Morning,Thursday,13,20
+Burger King,Suburb,Late Night,Wednesday,4,5
+Wendy's,Suburb,Late Night,Saturday,14,23
+Starbucks,Suburb,Morning,Saturday,14,15
+McDonald's,Highway Rest Stop,Morning,Saturday,16,20
+KFC,Highway Rest Stop,Afternoon,Sunday,7,15
+KFC,Mall,Late Night,Friday,19,38
+In-N-Out Burger,Highway Rest Stop,Morning,Wednesday,2,4
+Taco Bell,Highway Rest Stop,Morning,Thursday,10,17
+Wendy's,Downtown,Evening,Wednesday,18,26
+McDonald's,Mall,Morning,Friday,17,24
+Subway,Suburb,Morning,Monday,5,5
+Wendy's,Highway Rest Stop,Late Night,Friday,12,15
+Burger King,Suburb,Afternoon,Saturday,6,13
+Taco Bell,Suburb,Late Night,Sunday,9,12
+Wendy's,Downtown,Afternoon,Monday,1,0
+McDonald's,Highway Rest Stop,Evening,Sunday,15,19
+Wendy's,Mall,Morning,Saturday,6,9
+Burger King,Highway Rest Stop,Evening,Tuesday,19,25
+Subway,Suburb,Afternoon,Friday,18,25
+Chick-fil-A,Mall,Late Night,Friday,6,6
+Domino's Pizza,Highway Rest Stop,Late Night,Thursday,13,23
+Subway,Suburb,Evening,Wednesday,1,1
+Starbucks,Suburb,Afternoon,Monday,13,17
+Wendy's,Downtown,Evening,Sunday,7,12
+KFC,Downtown,Evening,Monday,15,18
+In-N-Out Burger,Downtown,Morning,Thursday,12,9
+KFC,Suburb,Evening,Thursday,1,-1
+Subway,Highway Rest Stop,Morning,Sunday,15,25
+KFC,Downtown,Morning,Wednesday,4,7
+McDonald's,Highway Rest Stop,Late Night,Sunday,13,14
+KFC,Downtown,Morning,Sunday,5,8
+Taco Bell,Mall,Morning,Saturday,2,0
+Chick-fil-A,Mall,Late Night,Wednesday,1,4
+Wendy's,Downtown,Evening,Friday,16,35
+KFC,Suburb,Afternoon,Saturday,6,15
+Burger King,Downtown,Afternoon,Tuesday,16,27
+Chick-fil-A,Downtown,Afternoon,Wednesday,14,24
+Chick-fil-A,Suburb,Evening,Thursday,3,-2
+KFC,Mall,Morning,Saturday,15,19
+Chick-fil-A,Highway Rest Stop,Afternoon,Wednesday,3,3
+In-N-Out Burger,Downtown,Evening,Monday,2,5
+KFC,Suburb,Morning,Sunday,1,-6
+McDonald's,Downtown,Late Night,Tuesday,9,18
+Subway,Suburb,Afternoon,Friday,9,17
+Taco Bell,Highway Rest Stop,Morning,Sunday,7,13
+Domino's Pizza,Highway Rest Stop,Afternoon,Monday,3,9
+Starbucks,Mall,Afternoon,Monday,18,25
+Chick-fil-A,Suburb,Afternoon,Tuesday,11,18
+McDonald's,Suburb,Morning,Friday,7,10
+Wendy's,Mall,Evening,Thursday,9,16
+Wendy's,Mall,Morning,Saturday,1,1
+Starbucks,Suburb,Afternoon,Friday,14,16
+Taco Bell,Mall,Morning,Wednesday,6,6
+Chick-fil-A,Highway Rest Stop,Late Night,Monday,7,13
+In-N-Out Burger,Downtown,Evening,Wednesday,10,18
+Starbucks,Highway Rest Stop,Morning,Thursday,7,7
+Taco Bell,Mall,Late Night,Wednesday,2,1
+Chick-fil-A,Suburb,Evening,Friday,4,2
+McDonald's,Suburb,Late Night,Wednesday,17,36
+Subway,Highway Rest Stop,Evening,Thursday,1,0
+In-N-Out Burger,Suburb,Morning,Thursday,10,18
+Domino's Pizza,Mall,Late Night,Thursday,19,34
+Wendy's,Highway Rest Stop,Afternoon,Friday,15,15
+Burger King,Suburb,Late Night,Thursday,10,9
+McDonald's,Downtown,Evening,Monday,19,35
+Wendy's,Downtown,Morning,Sunday,12,19
+KFC,Mall,Evening,Thursday,16,18
+Burger King,Suburb,Late Night,Wednesday,9,6
+Wendy's,Mall,Late Night,Saturday,15,27
+Taco Bell,Highway Rest Stop,Afternoon,Wednesday,17,27
+In-N-Out Burger,Downtown,Morning,Saturday,14,21
+Wendy's,Highway Rest Stop,Morning,Wednesday,18,31
+Domino's Pizza,Suburb,Late Night,Friday,2,0
+Subway,Mall,Morning,Wednesday,4,4
+Taco Bell,Mall,Afternoon,Friday,18,36
+McDonald's,Mall,Evening,Friday,7,12
+McDonald's,Highway Rest Stop,Morning,Thursday,13,32
+McDonald's,Downtown,Late Night,Monday,15,25
+McDonald's,Highway Rest Stop,Evening,Saturday,1,0
+Subway,Highway Rest Stop,Evening,Thursday,11,19
+Wendy's,Suburb,Afternoon,Thursday,10,21
+Chick-fil-A,Suburb,Late Night,Sunday,5,7
+Wendy's,Suburb,Morning,Friday,16,33
+KFC,Downtown,Late Night,Friday,11,21
+In-N-Out Burger,Downtown,Evening,Saturday,6,7
+Burger King,Suburb,Late Night,Wednesday,9,12
+Chick-fil-A,Suburb,Morning,Wednesday,13,22
+Chick-fil-A,Downtown,Morning,Thursday,8,14
+Wendy's,Mall,Afternoon,Tuesday,14,24
+Chick-fil-A,Downtown,Morning,Tuesday,1,-2
+Starbucks,Downtown,Morning,Wednesday,17,30
+Starbucks,Downtown,Late Night,Tuesday,5,5
+KFC,Suburb,Late Night,Sunday,2,6
+Burger King,Mall,Evening,Wednesday,9,7
+Domino's Pizza,Downtown,Afternoon,Friday,4,9
+Subway,Suburb,Late Night,Thursday,17,31
+Wendy's,Highway Rest Stop,Morning,Monday,17,33
+Subway,Highway Rest Stop,Evening,Thursday,18,30
+Domino's Pizza,Downtown,Late Night,Wednesday,16,22
+Wendy's,Highway Rest Stop,Afternoon,Sunday,8,12
+Wendy's,Mall,Afternoon,Wednesday,11,18
+Burger King,Highway Rest Stop,Evening,Thursday,18,23
+Subway,Highway Rest Stop,Evening,Sunday,10,16
+Starbucks,Mall,Evening,Sunday,13,26
+McDonald's,Downtown,Evening,Sunday,17,28
+Subway,Downtown,Evening,Saturday,18,28
+In-N-Out Burger,Mall,Morning,Wednesday,10,20
+In-N-Out Burger,Mall,Morning,Tuesday,16,23
+Wendy's,Mall,Late Night,Tuesday,5,5
+McDonald's,Highway Rest Stop,Afternoon,Wednesday,13,19
+Taco Bell,Mall,Morning,Wednesday,18,24
+Domino's Pizza,Suburb,Morning,Saturday,17,25
+KFC,Highway Rest Stop,Morning,Tuesday,9,17
+McDonald's,Downtown,Late Night,Wednesday,14,20
+KFC,Downtown,Evening,Wednesday,17,23
+Subway,Downtown,Late Night,Saturday,4,7
+Subway,Highway Rest Stop,Afternoon,Saturday,18,31
+KFC,Suburb,Afternoon,Thursday,15,30
+Domino's Pizza,Mall,Afternoon,Saturday,11,13
+McDonald's,Mall,Afternoon,Monday,12,25
+Taco Bell,Downtown,Morning,Tuesday,9,6
+Wendy's,Downtown,Morning,Thursday,13,21
+Burger King,Highway Rest Stop,Late Night,Monday,15,18
+Subway,Suburb,Evening,Wednesday,15,25
+In-N-Out Burger,Mall,Afternoon,Wednesday,5,5
+Domino's Pizza,Highway Rest Stop,Late Night,Thursday,19,27
+Burger King,Mall,Morning,Saturday,14,22
+Taco Bell,Downtown,Morning,Sunday,17,25
+Chick-fil-A,Mall,Evening,Sunday,18,30
+Wendy's,Suburb,Evening,Wednesday,3,2
+Subway,Suburb,Evening,Sunday,2,9
+Wendy's,Downtown,Late Night,Friday,1,-1
+Burger King,Suburb,Morning,Thursday,10,13
+Wendy's,Suburb,Morning,Monday,19,26
+Chick-fil-A,Highway Rest Stop,Evening,Thursday,17,25
+Burger King,Mall,Afternoon,Tuesday,12,13
+Subway,Downtown,Evening,Saturday,1,4
+McDonald's,Downtown,Late Night,Saturday,12,25
+In-N-Out Burger,Downtown,Evening,Thursday,17,29
+Burger King,Downtown,Evening,Wednesday,3,3
+Starbucks,Downtown,Late Night,Wednesday,11,21
+Chick-fil-A,Suburb,Evening,Friday,17,28
+Burger King,Highway Rest Stop,Morning,Friday,3,8
+Burger King,Downtown,Afternoon,Saturday,8,12
+Starbucks,Highway Rest Stop,Evening,Friday,4,7
+Subway,Highway Rest Stop,Late Night,Monday,7,12
+Burger King,Suburb,Afternoon,Friday,14,16
+In-N-Out Burger,Downtown,Late Night,Monday,14,25
+Wendy's,Suburb,Afternoon,Friday,4,4
+Subway,Downtown,Afternoon,Saturday,16,21
+In-N-Out Burger,Suburb,Evening,Saturday,1,7
+Subway,Highway Rest Stop,Morning,Monday,17,23
+In-N-Out Burger,Downtown,Evening,Thursday,10,16
+Chick-fil-A,Mall,Late Night,Saturday,16,25
+In-N-Out Burger,Highway Rest Stop,Late Night,Thursday,16,20
+KFC,Mall,Afternoon,Wednesday,8,12
+In-N-Out Burger,Highway Rest Stop,Afternoon,Monday,7,12
+McDonald's,Suburb,Morning,Sunday,6,10
+McDonald's,Downtown,Evening,Saturday,16,21
+Domino's Pizza,Highway Rest Stop,Late Night,Tuesday,16,32
+KFC,Suburb,Afternoon,Wednesday,7,5
+KFC,Downtown,Morning,Thursday,9,14
+Wendy's,Downtown,Late Night,Saturday,14,17
+KFC,Highway Rest Stop,Afternoon,Monday,11,20
+Wendy's,Downtown,Late Night,Sunday,14,23
+Domino's Pizza,Highway Rest Stop,Morning,Friday,7,11
+Domino's Pizza,Downtown,Morning,Sunday,1,-2
+Chick-fil-A,Mall,Late Night,Tuesday,13,19
+McDonald's,Suburb,Evening,Thursday,3,1
+In-N-Out Burger,Mall,Late Night,Wednesday,4,2
+In-N-Out Burger,Highway Rest Stop,Afternoon,Sunday,11,23
+Starbucks,Mall,Evening,Monday,2,6
+Starbucks,Highway Rest Stop,Afternoon,Tuesday,14,22
+Taco Bell,Downtown,Late Night,Monday,12,16
+Subway,Downtown,Evening,Saturday,17,21
+Chick-fil-A,Highway Rest Stop,Afternoon,Friday,12,17
+Taco Bell,Mall,Late Night,Wednesday,12,18
+Taco Bell,Downtown,Late Night,Monday,1,3
+Burger King,Suburb,Evening,Thursday,13,18
+Burger King,Downtown,Late Night,Saturday,14,29
+Taco Bell,Suburb,Morning,Saturday,2,2
+KFC,Mall,Afternoon,Wednesday,12,20
+Subway,Suburb,Afternoon,Saturday,16,29
+Chick-fil-A,Suburb,Late Night,Thursday,4,5
+Taco Bell,Suburb,Late Night,Monday,8,14
+In-N-Out Burger,Suburb,Morning,Wednesday,2,5
+Subway,Downtown,Evening,Saturday,10,9
+Burger King,Suburb,Late Night,Saturday,9,16
+In-N-Out Burger,Downtown,Late Night,Thursday,15,18
+Burger King,Suburb,Late Night,Friday,13,22
+Burger King,Highway Rest Stop,Late Night,Friday,17,27
+Subway,Mall,Afternoon,Sunday,16,30
+Burger King,Suburb,Late Night,Saturday,2,3
+Domino's Pizza,Highway Rest Stop,Afternoon,Monday,14,21
+McDonald's,Suburb,Late Night,Wednesday,3,6
+Domino's Pizza,Suburb,Evening,Saturday,12,13
+McDonald's,Suburb,Morning,Tuesday,8,16
+Starbucks,Highway Rest Stop,Evening,Wednesday,2,6
+Starbucks,Mall,Late Night,Sunday,4,6
+Burger King,Highway Rest Stop,Late Night,Friday,14,23
+Chick-fil-A,Mall,Late Night,Saturday,16,19
+Chick-fil-A,Suburb,Evening,Thursday,19,26
+McDonald's,Downtown,Late Night,Tuesday,2,-1
+In-N-Out Burger,Suburb,Evening,Saturday,12,23
+Subway,Mall,Afternoon,Sunday,14,23
+Burger King,Highway Rest Stop,Morning,Monday,6,3
+Subway,Suburb,Morning,Tuesday,13,29
+Domino's Pizza,Highway Rest Stop,Evening,Sunday,4,3
+Chick-fil-A,Highway Rest Stop,Afternoon,Saturday,18,27
+KFC,Highway Rest Stop,Evening,Monday,12,13
+Domino's Pizza,Suburb,Afternoon,Tuesday,19,25
+Domino's Pizza,Highway Rest Stop,Late Night,Monday,8,7
+McDonald's,Highway Rest Stop,Afternoon,Monday,7,16
+Wendy's,Suburb,Afternoon,Tuesday,16,18
+Domino's Pizza,Highway Rest Stop,Afternoon,Tuesday,19,26
+Burger King,Suburb,Morning,Monday,6,12
+Taco Bell,Mall,Afternoon,Sunday,11,19
+Taco Bell,Mall,Late Night,Friday,5,8
+Burger King,Mall,Late Night,Tuesday,16,27
+Wendy's,Highway Rest Stop,Late Night,Saturday,7,10
+Wendy's,Downtown,Afternoon,Wednesday,5,5
+McDonald's,Downtown,Evening,Thursday,11,21
+Chick-fil-A,Highway Rest Stop,Evening,Monday,15,25
+Subway,Downtown,Late Night,Monday,3,0
+Wendy's,Suburb,Morning,Thursday,5,1
+KFC,Downtown,Evening,Friday,5,9
+McDonald's,Highway Rest Stop,Afternoon,Thursday,9,20
+Starbucks,Highway Rest Stop,Evening,Tuesday,15,29
+In-N-Out Burger,Suburb,Late Night,Thursday,3,6
+Starbucks,Mall,Morning,Monday,6,8
+McDonald's,Highway Rest Stop,Evening,Thursday,17,38
+Domino's Pizza,Suburb,Evening,Wednesday,8,13
+Subway,Downtown,Late Night,Saturday,11,19
+In-N-Out Burger,Downtown,Morning,Tuesday,6,10
+Starbucks,Suburb,Morning,Thursday,8,8
+In-N-Out Burger,Suburb,Late Night,Monday,10,13
+KFC,Highway Rest Stop,Afternoon,Sunday,3,8
+KFC,Downtown,Evening,Saturday,14,22
+KFC,Suburb,Afternoon,Tuesday,14,15
+McDonald's,Downtown,Evening,Monday,10,19
+Subway,Suburb,Evening,Friday,12,21
+McDonald's,Downtown,Afternoon,Wednesday,6,9
+Taco Bell,Mall,Late Night,Friday,12,19
+Domino's Pizza,Highway Rest Stop,Late Night,Wednesday,14,14
+Domino's Pizza,Downtown,Evening,Thursday,2,4
+KFC,Mall,Late Night,Tuesday,9,16
+Taco Bell,Downtown,Evening,Thursday,10,15
+Wendy's,Downtown,Late Night,Wednesday,17,26
+Wendy's,Mall,Evening,Wednesday,17,21
+KFC,Downtown,Late Night,Wednesday,3,2
+Starbucks,Downtown,Morning,Saturday,19,22
+McDonald's,Highway Rest Stop,Afternoon,Monday,1,2
+KFC,Mall,Morning,Tuesday,12,22
+Chick-fil-A,Mall,Afternoon,Thursday,7,13
+In-N-Out Burger,Suburb,Afternoon,Thursday,4,7
+Domino's Pizza,Downtown,Evening,Friday,10,11
+Wendy's,Highway Rest Stop,Afternoon,Wednesday,13,21
+Burger King,Downtown,Morning,Sunday,2,0
+Wendy's,Downtown,Morning,Wednesday,10,19
+Domino's Pizza,Suburb,Late Night,Wednesday,4,6
+In-N-Out Burger,Downtown,Morning,Sunday,18,27
+Domino's Pizza,Highway Rest Stop,Late Night,Thursday,5,13
+Burger King,Highway Rest Stop,Afternoon,Friday,19,38
+KFC,Suburb,Morning,Monday,2,5
+Taco Bell,Downtown,Afternoon,Sunday,12,20
+Burger King,Highway Rest Stop,Morning,Saturday,17,37
+Domino's Pizza,Downtown,Morning,Tuesday,10,9
+Domino's Pizza,Downtown,Late Night,Sunday,2,2
+Chick-fil-A,Downtown,Afternoon,Monday,6,8
+Chick-fil-A,Suburb,Morning,Thursday,8,14
+Subway,Downtown,Evening,Saturday,19,38
+Chick-fil-A,Highway Rest Stop,Afternoon,Saturday,11,18
+McDonald's,Downtown,Afternoon,Saturday,12,21
+Taco Bell,Highway Rest Stop,Afternoon,Wednesday,9,19
+In-N-Out Burger,Downtown,Late Night,Tuesday,2,0
+Burger King,Highway Rest Stop,Evening,Thursday,8,8
+Domino's Pizza,Highway Rest Stop,Afternoon,Thursday,11,17
+Subway,Downtown,Morning,Saturday,4,6
+Subway,Downtown,Morning,Thursday,10,18
+In-N-Out Burger,Highway Rest Stop,Late Night,Tuesday,16,23
+Taco Bell,Mall,Morning,Tuesday,8,13
+Burger King,Suburb,Afternoon,Friday,4,4
+Wendy's,Mall,Morning,Sunday,10,16
+Chick-fil-A,Mall,Afternoon,Sunday,12,19
+KFC,Downtown,Morning,Friday,14,18
+Subway,Suburb,Evening,Monday,16,27
+Chick-fil-A,Mall,Late Night,Sunday,18,35
+Chick-fil-A,Downtown,Late Night,Tuesday,12,26
+McDonald's,Mall,Evening,Tuesday,18,22
+Taco Bell,Mall,Evening,Sunday,7,5
+KFC,Downtown,Late Night,Tuesday,7,10
+Wendy's,Downtown,Evening,Friday,9,12
+Domino's Pizza,Downtown,Afternoon,Saturday,1,4
+McDonald's,Suburb,Morning,Saturday,6,11
+Chick-fil-A,Mall,Late Night,Thursday,6,9
+Chick-fil-A,Downtown,Evening,Saturday,12,20
+Starbucks,Highway Rest Stop,Afternoon,Wednesday,12,18
+KFC,Mall,Late Night,Friday,10,17
+KFC,Highway Rest Stop,Evening,Tuesday,6,12
+Starbucks,Suburb,Late Night,Sunday,17,17
+KFC,Downtown,Evening,Saturday,19,24
+Chick-fil-A,Highway Rest Stop,Late Night,Friday,18,20
+Subway,Suburb,Afternoon,Saturday,6,9
+Burger King,Downtown,Afternoon,Monday,19,28
+Chick-fil-A,Highway Rest Stop,Morning,Tuesday,10,12
+McDonald's,Highway Rest Stop,Late Night,Monday,8,6
+Taco Bell,Suburb,Morning,Tuesday,6,9
+Starbucks,Downtown,Late Night,Friday,7,7
+Wendy's,Downtown,Evening,Thursday,1,0
+Domino's Pizza,Highway Rest Stop,Evening,Saturday,18,32
+Wendy's,Highway Rest Stop,Morning,Saturday,12,26
+Chick-fil-A,Highway Rest Stop,Late Night,Wednesday,16,31
+McDonald's,Downtown,Morning,Sunday,10,17
+Chick-fil-A,Suburb,Afternoon,Monday,10,10
+Taco Bell,Suburb,Morning,Saturday,14,17
+Subway,Downtown,Morning,Friday,10,9
+Domino's Pizza,Mall,Evening,Thursday,10,17
+Taco Bell,Suburb,Morning,Sunday,11,22
+Starbucks,Highway Rest Stop,Late Night,Friday,2,7
+Starbucks,Mall,Evening,Monday,8,11
+Chick-fil-A,Mall,Morning,Wednesday,7,10
+McDonald's,Suburb,Afternoon,Saturday,8,2
+Taco Bell,Mall,Morning,Friday,1,0
+In-N-Out Burger,Mall,Morning,Sunday,2,1
+McDonald's,Suburb,Morning,Tuesday,18,32
+Subway,Suburb,Evening,Thursday,15,29
+Starbucks,Mall,Late Night,Sunday,1,3
+Chick-fil-A,Highway Rest Stop,Afternoon,Friday,5,7
+KFC,Downtown,Morning,Thursday,2,2
+Starbucks,Mall,Late Night,Saturday,3,9
+Domino's Pizza,Mall,Late Night,Tuesday,19,21
+Burger King,Highway Rest Stop,Evening,Wednesday,18,27
+KFC,Mall,Afternoon,Sunday,18,32
+Chick-fil-A,Mall,Evening,Wednesday,14,17
+In-N-Out Burger,Downtown,Late Night,Tuesday,8,17
+KFC,Downtown,Late Night,Thursday,12,15
+Domino's Pizza,Downtown,Late Night,Saturday,10,18
+McDonald's,Suburb,Evening,Friday,17,22
+In-N-Out Burger,Suburb,Afternoon,Tuesday,11,16
+Starbucks,Downtown,Morning,Monday,2,2
+In-N-Out Burger,Downtown,Evening,Thursday,4,9
+Taco Bell,Suburb,Late Night,Wednesday,1,3
+Domino's Pizza,Highway Rest Stop,Evening,Sunday,15,24
+KFC,Mall,Late Night,Tuesday,13,26
+Taco Bell,Mall,Morning,Wednesday,8,13
+In-N-Out Burger,Downtown,Morning,Thursday,4,6
+Taco Bell,Highway Rest Stop,Afternoon,Wednesday,10,15
+Wendy's,Suburb,Late Night,Tuesday,19,33
+Domino's Pizza,Downtown,Afternoon,Thursday,18,37
+Subway,Highway Rest Stop,Afternoon,Monday,5,9
+McDonald's,Highway Rest Stop,Morning,Tuesday,19,22
+In-N-Out Burger,Highway Rest Stop,Evening,Friday,16,25
+Domino's Pizza,Suburb,Evening,Saturday,1,1
+Subway,Suburb,Afternoon,Tuesday,12,16
+Subway,Mall,Morning,Thursday,2,-2
+Chick-fil-A,Mall,Late Night,Sunday,8,10
+Taco Bell,Highway Rest Stop,Evening,Saturday,18,39
+Subway,Highway Rest Stop,Afternoon,Tuesday,16,20
+Wendy's,Suburb,Evening,Monday,5,9
+Domino's Pizza,Mall,Evening,Sunday,13,17
+Burger King,Highway Rest Stop,Late Night,Monday,19,36
+Burger King,Mall,Morning,Friday,3,7
+In-N-Out Burger,Mall,Late Night,Sunday,8,8
+Starbucks,Highway Rest Stop,Morning,Wednesday,12,10
+Taco Bell,Suburb,Evening,Sunday,2,-2
+Starbucks,Highway Rest Stop,Afternoon,Saturday,11,13
+Subway,Highway Rest Stop,Late Night,Sunday,12,27
+Domino's Pizza,Mall,Morning,Thursday,18,21
+In-N-Out Burger,Highway Rest Stop,Evening,Thursday,13,22
+KFC,Suburb,Morning,Wednesday,5,10
+Subway,Highway Rest Stop,Morning,Sunday,12,19
+Taco Bell,Suburb,Morning,Monday,2,3
+Burger King,Suburb,Evening,Monday,5,10
+Chick-fil-A,Mall,Afternoon,Tuesday,7,14
+Domino's Pizza,Downtown,Afternoon,Friday,12,22
+McDonald's,Downtown,Afternoon,Saturday,16,24
+Starbucks,Mall,Morning,Friday,8,12
+In-N-Out Burger,Highway Rest Stop,Evening,Sunday,9,19
+Starbucks,Mall,Morning,Friday,15,31
+Domino's Pizza,Suburb,Afternoon,Tuesday,5,7
+Starbucks,Downtown,Afternoon,Friday,13,26
+Domino's Pizza,Mall,Evening,Wednesday,5,8
+Starbucks,Highway Rest Stop,Morning,Tuesday,11,14
+Wendy's,Mall,Late Night,Wednesday,10,15
+KFC,Downtown,Late Night,Sunday,13,21
+Subway,Mall,Afternoon,Tuesday,9,11
+Subway,Mall,Evening,Sunday,14,15
+Taco Bell,Downtown,Morning,Sunday,18,21
+McDonald's,Suburb,Morning,Friday,15,20
+McDonald's,Suburb,Afternoon,Wednesday,10,19
+Taco Bell,Downtown,Afternoon,Sunday,7,9
+Chick-fil-A,Mall,Morning,Wednesday,8,4
+Subway,Downtown,Morning,Wednesday,3,2
+Chick-fil-A,Suburb,Afternoon,Tuesday,15,18
+Domino's Pizza,Highway Rest Stop,Morning,Thursday,16,27
+Domino's Pizza,Mall,Late Night,Friday,4,4
+Burger King,Suburb,Afternoon,Sunday,6,11
+Starbucks,Mall,Morning,Wednesday,1,1
+McDonald's,Downtown,Afternoon,Saturday,4,8
+Burger King,Highway Rest Stop,Evening,Thursday,11,16
+KFC,Downtown,Afternoon,Sunday,12,14
+Taco Bell,Highway Rest Stop,Afternoon,Saturday,5,5
+Taco Bell,Mall,Evening,Friday,16,25
+Domino's Pizza,Mall,Late Night,Friday,13,19
+Subway,Downtown,Morning,Wednesday,13,29
+Chick-fil-A,Highway Rest Stop,Evening,Wednesday,17,30
+McDonald's,Highway Rest Stop,Afternoon,Sunday,7,10
+Burger King,Mall,Morning,Tuesday,8,12
+Chick-fil-A,Downtown,Evening,Thursday,13,25
+Burger King,Highway Rest Stop,Morning,Sunday,16,26
+Starbucks,Mall,Morning,Thursday,4,4
+KFC,Suburb,Evening,Wednesday,8,19
+KFC,Downtown,Morning,Friday,16,28
+Chick-fil-A,Suburb,Late Night,Wednesday,10,14
+Chick-fil-A,Downtown,Evening,Friday,12,16
+Chick-fil-A,Mall,Late Night,Sunday,12,19
+Burger King,Highway Rest Stop,Afternoon,Friday,5,11
+Starbucks,Highway Rest Stop,Morning,Wednesday,16,17
+Wendy's,Highway Rest Stop,Afternoon,Monday,1,1
+Chick-fil-A,Downtown,Afternoon,Thursday,9,15
+Subway,Mall,Morning,Saturday,12,16
+McDonald's,Suburb,Evening,Friday,5,13
+McDonald's,Mall,Morning,Friday,3,7
+Burger King,Suburb,Afternoon,Monday,5,12
+Chick-fil-A,Downtown,Afternoon,Sunday,2,5
+Domino's Pizza,Downtown,Evening,Sunday,14,14
+Taco Bell,Suburb,Morning,Sunday,2,4
+Wendy's,Suburb,Afternoon,Saturday,13,22
+Subway,Suburb,Late Night,Tuesday,7,17
+Starbucks,Mall,Afternoon,Monday,10,11
+Domino's Pizza,Suburb,Afternoon,Saturday,13,19
+KFC,Downtown,Evening,Monday,16,18
+Domino's Pizza,Downtown,Late Night,Friday,14,29
+Burger King,Highway Rest Stop,Afternoon,Thursday,11,19
+Wendy's,Suburb,Afternoon,Monday,10,14
+In-N-Out Burger,Mall,Late Night,Tuesday,6,8
+In-N-Out Burger,Mall,Morning,Wednesday,4,6
+Chick-fil-A,Mall,Morning,Saturday,1,0
+Chick-fil-A,Highway Rest Stop,Afternoon,Monday,7,12
+Burger King,Downtown,Afternoon,Monday,9,14
+Starbucks,Mall,Morning,Tuesday,8,21
+Chick-fil-A,Downtown,Evening,Thursday,5,4
+Taco Bell,Highway Rest Stop,Late Night,Monday,19,28
+Wendy's,Suburb,Late Night,Monday,10,15
+Burger King,Suburb,Evening,Thursday,11,11
+McDonald's,Suburb,Evening,Tuesday,15,22
+KFC,Mall,Evening,Saturday,6,5
+Burger King,Suburb,Evening,Saturday,15,27
+Burger King,Mall,Evening,Monday,5,5
+In-N-Out Burger,Highway Rest Stop,Evening,Thursday,19,27
+Subway,Highway Rest Stop,Late Night,Monday,19,35
+Starbucks,Mall,Evening,Sunday,10,15
+Subway,Downtown,Morning,Wednesday,12,19
+Taco Bell,Suburb,Evening,Saturday,4,10
+McDonald's,Suburb,Evening,Sunday,18,38
+In-N-Out Burger,Suburb,Late Night,Friday,16,21
+McDonald's,Mall,Late Night,Wednesday,8,14
+Taco Bell,Highway Rest Stop,Evening,Monday,4,6
+Subway,Suburb,Late Night,Tuesday,12,17
+Burger King,Highway Rest Stop,Afternoon,Saturday,2,2
+Chick-fil-A,Suburb,Late Night,Friday,4,7
+Chick-fil-A,Suburb,Late Night,Wednesday,5,9
+Domino's Pizza,Mall,Late Night,Saturday,3,0
+KFC,Downtown,Late Night,Thursday,9,18
+Starbucks,Mall,Morning,Tuesday,18,26
+Taco Bell,Suburb,Morning,Wednesday,11,12
+KFC,Suburb,Morning,Thursday,3,5
+Starbucks,Downtown,Evening,Sunday,2,5
+KFC,Highway Rest Stop,Evening,Monday,9,8
+Subway,Highway Rest Stop,Afternoon,Thursday,14,17
+Starbucks,Suburb,Morning,Wednesday,4,1
+Subway,Highway Rest Stop,Evening,Wednesday,9,20
+Burger King,Suburb,Late Night,Sunday,13,26
+In-N-Out Burger,Downtown,Late Night,Monday,18,18
+Subway,Downtown,Morning,Thursday,15,36
+Chick-fil-A,Suburb,Afternoon,Thursday,10,11
+KFC,Downtown,Afternoon,Monday,16,30
+Domino's Pizza,Mall,Late Night,Thursday,12,14
+Wendy's,Mall,Afternoon,Saturday,5,7
+Starbucks,Downtown,Morning,Monday,2,4
+Taco Bell,Suburb,Late Night,Tuesday,10,5
+Domino's Pizza,Suburb,Evening,Wednesday,1,5
+Chick-fil-A,Downtown,Evening,Tuesday,7,7
+Subway,Highway Rest Stop,Afternoon,Saturday,17,22
+In-N-Out Burger,Mall,Late Night,Sunday,16,31
+Burger King,Highway Rest Stop,Late Night,Saturday,3,5
+Wendy's,Suburb,Evening,Friday,14,21
+McDonald's,Suburb,Late Night,Friday,10,11
+Domino's Pizza,Highway Rest Stop,Late Night,Friday,7,19
+In-N-Out Burger,Downtown,Late Night,Monday,17,31
+McDonald's,Highway Rest Stop,Afternoon,Thursday,6,8
+Wendy's,Highway Rest Stop,Late Night,Saturday,4,7
+Taco Bell,Mall,Morning,Tuesday,17,20
+Taco Bell,Mall,Afternoon,Sunday,9,22
+KFC,Highway Rest Stop,Late Night,Tuesday,4,5
+Wendy's,Highway Rest Stop,Late Night,Tuesday,7,6
+Wendy's,Suburb,Morning,Tuesday,2,5
+McDonald's,Mall,Afternoon,Sunday,17,27
+In-N-Out Burger,Mall,Evening,Friday,8,5
+Starbucks,Suburb,Evening,Tuesday,15,28
+McDonald's,Downtown,Afternoon,Sunday,15,23
+Burger King,Mall,Late Night,Sunday,8,15
+Taco Bell,Mall,Late Night,Thursday,16,29
+Taco Bell,Downtown,Evening,Sunday,19,28
+KFC,Mall,Evening,Friday,11,14
+Burger King,Mall,Evening,Tuesday,2,7
+Taco Bell,Downtown,Morning,Sunday,17,32
+McDonald's,Downtown,Evening,Monday,16,21
+Burger King,Highway Rest Stop,Morning,Sunday,15,24
+McDonald's,Suburb,Afternoon,Wednesday,13,21
+Starbucks,Suburb,Late Night,Wednesday,15,22
+Starbucks,Downtown,Evening,Wednesday,4,5
+Taco Bell,Downtown,Late Night,Sunday,16,25
+Taco Bell,Mall,Late Night,Friday,12,23
+In-N-Out Burger,Highway Rest Stop,Evening,Tuesday,4,6
+Starbucks,Highway Rest Stop,Evening,Saturday,3,1
+Domino's Pizza,Downtown,Afternoon,Saturday,17,25
+Domino's Pizza,Mall,Morning,Saturday,18,27
+KFC,Mall,Morning,Friday,18,27
+Starbucks,Suburb,Late Night,Thursday,17,28
+McDonald's,Suburb,Evening,Monday,12,16
+McDonald's,Mall,Afternoon,Monday,4,5
+Chick-fil-A,Suburb,Afternoon,Wednesday,12,24
+Burger King,Downtown,Afternoon,Wednesday,15,24
+Subway,Mall,Afternoon,Sunday,16,24
+Domino's Pizza,Suburb,Afternoon,Saturday,5,8
+Taco Bell,Highway Rest Stop,Morning,Sunday,15,22
+KFC,Mall,Morning,Saturday,17,17
+Subway,Mall,Morning,Wednesday,18,19
+Wendy's,Highway Rest Stop,Evening,Tuesday,5,13
+KFC,Downtown,Late Night,Thursday,13,26
+Wendy's,Highway Rest Stop,Afternoon,Sunday,19,26
+Starbucks,Mall,Evening,Thursday,13,19
+Wendy's,Downtown,Afternoon,Thursday,18,22
+Wendy's,Suburb,Morning,Thursday,14,21
+In-N-Out Burger,Suburb,Evening,Wednesday,4,2
+In-N-Out Burger,Suburb,Morning,Monday,4,10
+In-N-Out Burger,Mall,Afternoon,Wednesday,19,33
+Starbucks,Highway Rest Stop,Afternoon,Thursday,13,26
+Subway,Downtown,Late Night,Wednesday,12,20
+KFC,Suburb,Afternoon,Thursday,7,12
+KFC,Downtown,Morning,Friday,12,16
+Taco Bell,Mall,Afternoon,Saturday,4,3
+In-N-Out Burger,Suburb,Late Night,Monday,2,3
+Starbucks,Mall,Late Night,Friday,2,11
+Taco Bell,Highway Rest Stop,Morning,Tuesday,5,6
+Burger King,Mall,Evening,Wednesday,10,11
+Taco Bell,Mall,Afternoon,Tuesday,10,12
+Subway,Highway Rest Stop,Late Night,Sunday,9,19
+Domino's Pizza,Downtown,Afternoon,Wednesday,13,21
+Wendy's,Highway Rest Stop,Afternoon,Saturday,7,14
+In-N-Out Burger,Highway Rest Stop,Evening,Friday,5,9
+Domino's Pizza,Mall,Late Night,Saturday,10,18
+Taco Bell,Downtown,Afternoon,Sunday,10,17
+Starbucks,Suburb,Late Night,Thursday,6,9
+Wendy's,Highway Rest Stop,Morning,Saturday,19,36
+KFC,Downtown,Morning,Saturday,8,13
+McDonald's,Highway Rest Stop,Afternoon,Thursday,1,1
+Wendy's,Highway Rest Stop,Late Night,Wednesday,17,36
+Subway,Highway Rest Stop,Afternoon,Thursday,7,13
+Subway,Highway Rest Stop,Late Night,Friday,14,19
+Taco Bell,Mall,Late Night,Saturday,17,29
+Burger King,Downtown,Evening,Thursday,9,13
+Subway,Downtown,Evening,Sunday,17,29
+Subway,Downtown,Evening,Sunday,5,4
+Starbucks,Highway Rest Stop,Afternoon,Saturday,8,11
+Taco Bell,Mall,Evening,Friday,6,8
+Wendy's,Highway Rest Stop,Evening,Tuesday,11,15
+Burger King,Highway Rest Stop,Morning,Friday,19,26
+Domino's Pizza,Downtown,Late Night,Monday,4,5
+McDonald's,Highway Rest Stop,Late Night,Monday,18,35
+In-N-Out Burger,Suburb,Evening,Monday,1,0
+KFC,Highway Rest Stop,Late Night,Saturday,13,18
+Subway,Suburb,Morning,Sunday,14,27
+Taco Bell,Highway Rest Stop,Morning,Wednesday,1,2
+In-N-Out Burger,Mall,Evening,Sunday,11,14
+KFC,Mall,Morning,Wednesday,17,20
+KFC,Downtown,Late Night,Wednesday,4,8
+Domino's Pizza,Highway Rest Stop,Afternoon,Sunday,12,19
+Domino's Pizza,Suburb,Late Night,Saturday,10,14
+Domino's Pizza,Suburb,Afternoon,Friday,6,9
+Chick-fil-A,Highway Rest Stop,Evening,Wednesday,1,0
+Chick-fil-A,Suburb,Afternoon,Tuesday,7,16
+KFC,Mall,Morning,Sunday,16,16
+Domino's Pizza,Suburb,Late Night,Sunday,14,22
+Starbucks,Downtown,Afternoon,Monday,6,10
+Subway,Mall,Late Night,Friday,5,7
+In-N-Out Burger,Mall,Evening,Monday,18,27
+In-N-Out Burger,Mall,Evening,Sunday,15,22
+Chick-fil-A,Highway Rest Stop,Morning,Sunday,6,14
+KFC,Highway Rest Stop,Evening,Wednesday,19,36
+Taco Bell,Mall,Afternoon,Friday,1,-3
+Wendy's,Highway Rest Stop,Evening,Thursday,1,2
+Wendy's,Suburb,Morning,Tuesday,13,20
+Chick-fil-A,Highway Rest Stop,Late Night,Wednesday,3,10
+Taco Bell,Highway Rest Stop,Late Night,Sunday,10,14
+Chick-fil-A,Mall,Evening,Wednesday,3,0
+Wendy's,Downtown,Afternoon,Tuesday,9,8
+Taco Bell,Downtown,Morning,Sunday,8,13
+Domino's Pizza,Downtown,Afternoon,Tuesday,3,2
+KFC,Suburb,Morning,Thursday,13,18
+In-N-Out Burger,Highway Rest Stop,Evening,Wednesday,6,11
+Starbucks,Downtown,Morning,Saturday,13,14
+Burger King,Mall,Morning,Wednesday,12,21
+KFC,Downtown,Evening,Monday,13,17
+Domino's Pizza,Downtown,Afternoon,Friday,2,7
+Wendy's,Highway Rest Stop,Evening,Friday,16,25
+Domino's Pizza,Highway Rest Stop,Morning,Monday,6,8
+Chick-fil-A,Highway Rest Stop,Evening,Sunday,19,31
+Taco Bell,Suburb,Morning,Friday,13,24
+In-N-Out Burger,Suburb,Evening,Tuesday,17,33
+Subway,Downtown,Late Night,Friday,9,11
+Chick-fil-A,Highway Rest Stop,Late Night,Friday,17,28
+KFC,Downtown,Evening,Monday,2,5
+Chick-fil-A,Mall,Afternoon,Sunday,19,27
+KFC,Mall,Morning,Thursday,19,24
+Subway,Highway Rest Stop,Late Night,Friday,7,16
+McDonald's,Highway Rest Stop,Afternoon,Saturday,10,14
+In-N-Out Burger,Mall,Morning,Friday,10,17
+Starbucks,Highway Rest Stop,Late Night,Thursday,9,16
+Starbucks,Suburb,Late Night,Monday,17,25
+Burger King,Suburb,Evening,Thursday,15,28
+Domino's Pizza,Highway Rest Stop,Morning,Monday,2,3
+McDonald's,Mall,Afternoon,Tuesday,4,5
+Starbucks,Downtown,Afternoon,Monday,19,38
+Chick-fil-A,Highway Rest Stop,Afternoon,Tuesday,17,34
+Domino's Pizza,Highway Rest Stop,Morning,Tuesday,5,5
+McDonald's,Downtown,Afternoon,Monday,7,9
+Taco Bell,Highway Rest Stop,Afternoon,Saturday,18,23
+Taco Bell,Downtown,Afternoon,Wednesday,7,11
+Domino's Pizza,Mall,Evening,Monday,17,25
+KFC,Suburb,Evening,Friday,7,9
+KFC,Mall,Morning,Saturday,4,6
+Chick-fil-A,Suburb,Morning,Saturday,8,15
+McDonald's,Downtown,Afternoon,Friday,13,20
+McDonald's,Suburb,Evening,Wednesday,4,1
+Domino's Pizza,Mall,Late Night,Saturday,6,14
+Wendy's,Suburb,Late Night,Tuesday,5,7
+Taco Bell,Downtown,Afternoon,Wednesday,12,17
