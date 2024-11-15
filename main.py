@@ -5,7 +5,6 @@ import numpy as np
 from PIL import Image
 import openai
 from datetime import datetime
-from config import API_KEY 
 
 # Set your OpenAI API key
 openai.api_key = st.secrets["OPENAI_API_KEY"]
