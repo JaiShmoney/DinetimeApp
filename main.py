@@ -11,7 +11,7 @@ openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 
 # Load the wait time dataset
-file_path = '/Users/jaishmoney/dinetimeapp/popular_fast_food_wait_times.csv'
+file_path = './popular_fast_food_wait_times.csv'
 wait_time_data = pd.read_csv(file_path)
 
 # Function to get restaurant recommendations from OpenAI
